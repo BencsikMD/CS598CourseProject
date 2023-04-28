@@ -8,3 +8,4 @@ tqdm
 #pyhealth
 matplotlib
 dask
+tables
