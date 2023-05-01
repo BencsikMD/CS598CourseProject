@@ -9,3 +9,6 @@ tqdm
 matplotlib
 dask
 tables
+ipywidgets
+pyarrow
+graphviz
