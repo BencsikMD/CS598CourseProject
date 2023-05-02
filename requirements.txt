@@ -1,14 +1,17 @@
 numpy
 pandas
-torch>=1.8.0
-rdkit>=2022.03.4
-scikit-learn>=0.24.2
-networkx>=2.6.3
-tqdm
-#pyhealth
+torch 
+# torch>=1.8.0
+# rdkit>=2022.03.4
+# scikit-learn>=0.24.2
+# networkx>=2.6.3
+
+#pyhealth # does not support all tables in mimic-3
 matplotlib
-dask
-tables
-ipywidgets
-pyarrow
-graphviz
+
+tables # hdf5
+tqdm
+ipywidgets # tqdm
+pyarrow # feather
+# dask
+# graphviz # dask
