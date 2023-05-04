@@ -15,3 +15,4 @@ ipywidgets # tqdm
 pyarrow # feather
 # dask
 # graphviz # dask
+scikit-learn
