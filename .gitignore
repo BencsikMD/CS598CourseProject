@@ -1,4 +1,5 @@
 *.venv
 *mimic-iii
-
 data/**
+resources/claims_codes_hs_300.pickle
+resources/claims_codes_hs_300.txt
